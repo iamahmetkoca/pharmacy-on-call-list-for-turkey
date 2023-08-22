@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", function () {
             method: "GET",
             headers: {
                 "content-type": "application/json",
-                "authorization": "apikey 7xuOiLiKEvU8XUJPOgobfJ:2S3z3Ppp8RzNR8qLCJ6lxQ"
+                "authorization": "your-api-key-here"
             }
         })
         .then(response => response.json())
