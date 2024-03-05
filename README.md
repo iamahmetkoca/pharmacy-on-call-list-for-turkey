@@ -1,6 +1,6 @@
 # Pharmacy on call list for Turkey
 
-![Project Image](https://ahmetkoca.com.tr/github/pharmacy-project/pharmacy.png)
+![Project Image](https://ahmetkoca.dev/github/pharmacy-project/pharmacy.png)
 
 
 
